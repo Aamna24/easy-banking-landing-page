@@ -28,8 +28,8 @@ const Section1 = () => {
   ];
   return (
     <Box className="bg-gray-300 p-28 md:mt-0 mt-[500px]">
-      <Typography className="font-medium text-2xl my-5">
-        Why choose Easybanking ?
+      <Typography className="font-medium text-3xl my-5">
+        Why choose Easybank ?
       </Typography>
       <Typography className="font-normal text-md">
         We leverage Open Banking to turn your bank account into your financial
